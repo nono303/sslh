@@ -1,9 +1,10 @@
-filename              date              x   cc     pver  product                description
-/x64/cygconfig-11.dll 14/11/2023 17:59  64  2.41   1.7.3 libconfig:cygconfig-11 arch:x64 gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
-/x64/cygev-4.dll      01/01/1970 01:00  64  2.36   n/a   n/a                    n/a
-/x64/cygpcre2-8-0.dll 19/12/2022 13:59  64  2.39   n/a   n/a                    n/a
-/x64/cygwin1.dll      06/09/2023 12:29  64  2.41   3.4.9 Cygwin                 Cygwin POSIX Emulation DLL
-/x64/echosrv.exe      14/11/2023 18:08  64  2.41   2.0.1 sslh:echosrv           arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
-/x64/sslh-ev.exe      14/11/2023 18:08  64  2.41   2.0.1 sslh:sslh-ev           arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
-/x64/sslh-fork.exe    14/11/2023 18:08  64  2.41   2.0.1 sslh:sslh-fork         arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
-/x64/sslh-select.exe  14/11/2023 18:08  64  2.41   2.0.1 sslh:sslh-select       arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
+filename                                  date              x   link  set           cl     pver      pdb ©   product                                 description
+/x64/cygconfig-11.dll                     03/12/2023 14:56  64                      2.41   1.7.3     n/a OK  libconfig:cygconfig-11                  arch:x64 gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
+/x64/cygev-4.dll                          01/01/1970 01:00  64                      2.36   n/a       n/a KO  n/a                                     n/a
+/x64/cygpcre2-8-0.dll                     19/12/2022 13:59  64                      2.39   n/a       n/a KO  n/a                                     n/a
+/x64/cygwin1.dll                          29/11/2023 13:20  64                      2.41   3.4.10    n/a KO  Cygwin                                  Cygwin POSIX Emulation DLL
+/x64/echosrv.exe                          03/12/2023 14:56  64                      2.41   2.0.1     n/a OK  sslh:echosrv                            arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
+/x64/nssm-2.25.0.exe                      09/03/2023 11:08  64  ltcg  avx (248)     14.36  2.2.25.0  n/a OK  nssm:nssm-2.25.0                        arch:x64-avx vcver:14.36[vs17] commit:a1c3260 branch:master date:2021-12-16
+/x64/sslh-ev.exe                          03/12/2023 14:56  64                      2.41   2.0.1     n/a OK  sslh:sslh-ev                            arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
+/x64/sslh-fork.exe                        03/12/2023 14:56  64                      2.41   2.0.1     n/a OK  sslh:sslh-fork                          arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
+/x64/sslh-select.exe                      03/12/2023 14:56  64                      2.41   2.0.1     n/a OK  sslh:sslh-select                        arch:x64 gcc:11.4.0 libconfig:v1.7.3 commit:1b26eb5 tag:v2.0.1 date:2023-09-24
