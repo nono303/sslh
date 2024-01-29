@@ -3,7 +3,7 @@
 ----
 ### version [2.0.1](https://github.com/yrutschle/sslh/releases/tag/v2.0.1) - 2023-09-24
 
-**Released 2023-12-03** *(x64 - gcc `11.4.0`)*
+**Released 2024-01-29** *(x64 - gcc `11.4.0`)*
 
 -----
 ### Build Scripts
@@ -18,7 +18,7 @@
 - **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.7.3)** `1.7.3` _(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.4.10` _(cygwin)_
+- **cygwin** `3.5.0` _(cygwin)_
    - *cygwin1.dll*
 - **pcre2** `10.42`_(cygwin)_
   - *cygpcre2-8-0.dll*
