@@ -1,9 +1,9 @@
 # SSLH - Windows Cygwin binaries #
 - https://github.com/yrutschle/sslh
 ----
-### version [2.0.1](https://github.com/yrutschle/sslh/releases/tag/v2.0.1) - 2023-09-24
+### version [2.1.0](https://github.com/yrutschle/sslh/releases/tag/v2.1.0) - 2024-03-13
 
-**Released 2024-01-29** *(x64 - gcc `11.4.0`)*
+**Released 2024-03-15** *(x64 **AVX** - gcc `11.4.0`)*
 
 -----
 ### Build Scripts
@@ -18,9 +18,9 @@
 - **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.7.3)** `1.7.3` _(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.5.0` _(cygwin)_
+- **cygwin** `3.5.1` _(cygwin)_
    - *cygwin1.dll*
-- **pcre2** `10.42`_(cygwin)_
+- **pcre2** `10.43`_(cygwin)_
   - *cygpcre2-8-0.dll*
 
 - **libev** `4.33` _(cygwin)_ :point_up: _only required for **sslh-ev**_
