@@ -1,11 +1,19 @@
 # SSLH - Windows Cygwin binaries #
 - https://github.com/yrutschle/sslh
 ----
-### version [2.1.0](https://github.com/yrutschle/sslh/releases/tag/v2.1.0) - 2024-03-13
+### version [2.1.1](https://github.com/yrutschle/sslh/releases/tag/v2.1.1) - 2024-03-27
 
-**Released 2024-03-15** *(x64 **AVX** - gcc `11.4.0`)*
+**Released 2024-03-24** *(x64  gcc `11.4.0`)*
 
 -----
+### Instruction sets
+
+> Choose an instruction set according to your cpu _([see here how to find it](https://github.com/nono303/PHP-memcache-dll?tab=readme-ov-file#how-to-get-the-good-version))_
+
+- **SSE2**
+- **AVX**
+- **AVX2**
+
 ### Build Scripts
 
 - [@nono303/win-build-scripts](https://github.com/nono303/win-build-scripts)

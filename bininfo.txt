@@ -1,10 +1,23 @@
-filename              date              x   link  set       cl    pver     product                description
-/x64/cygconfig-11.dll 14/03/2024 10:54  64        avx (130) 2.42  1.7.3    libconfig:cygconfig-11 arch:x64-avx gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
-/x64/cygev-4.dll      01/01/1970 01:00  64                  2.36  4.33     n/a                    n/a
-/x64/cygpcre2-8-0.dll 18/02/2024 10:01  64                  2.42  10.43    n/a                    n/a
-/x64/cygwin1.dll      27/02/2024 13:02  64                  2.42  3.5.1    Cygwin                 Cygwin POSIX Emulation DLL
-/x64/echosrv.exe      14/03/2024 11:42  64        avx (622) 2.42  2.1.0    sslh:echosrv           arch:x64-avx gcc:11.4.0 libconfig: commit:c43f6da tag:v2.1.0 date:2024-03-13
-/x64/nssm-2.25.0.exe  09/03/2023 11:08  64  ltcg  avx (248) 14.36 2.2.25.0 nssm:nssm-2.25.0       arch:x64-avx vcver:14.36[vs17] commit:a1c3260 branch:master date:2021-12-16
-/x64/sslh-ev.exe      14/03/2024 11:42  64        avx (919) 2.42  2.1.0    sslh:sslh-ev           arch:x64-avx gcc:11.4.0 libconfig: commit:c43f6da tag:v2.1.0 date:2024-03-13
-/x64/sslh-fork.exe    14/03/2024 11:42  64        avx (841) 2.42  2.1.0    sslh:sslh-fork         arch:x64-avx gcc:11.4.0 libconfig: commit:c43f6da tag:v2.1.0 date:2024-03-13
-/x64/sslh-select.exe  14/03/2024 11:42  64        avx (936) 2.42  2.1.0    sslh:sslh-select       arch:x64-avx gcc:11.4.0 libconfig: commit:c43f6da tag:v2.1.0 date:2024-03-13
+filename                                  date              x   link  set           cl     pver      pdb ©   product                                 description
+/x64/avx2/cygconfig-11.dll                27/03/2024 15:36  64        avx (120)     2.42   1.7.3     n/a OK  libconfig:cygconfig-11                  arch:x64-avx gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
+/x64/avx2/echosrv.exe                     27/03/2024 15:36  64        avx (529)     2.42   2.1.1     n/a OK  sslh:echosrv                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx2/sslh-ev.exe                     27/03/2024 15:36  64        avx (822)     2.42   2.1.1     n/a OK  sslh:sslh-ev                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx2/sslh-fork.exe                   27/03/2024 15:36  64        avx (744)     2.42   2.1.1     n/a OK  sslh:sslh-fork                          arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx2/sslh-select.exe                 27/03/2024 15:36  64        avx (839)     2.42   2.1.1     n/a OK  sslh:sslh-select                        arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+
+/x64/avx/cygconfig-11.dll                 27/03/2024 15:39  64        avx (130)     2.42   1.7.3     n/a OK  libconfig:cygconfig-11                  arch:x64-avx gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
+/x64/avx/echosrv.exe                      27/03/2024 15:39  64        avx (622)     2.42   2.1.1     n/a OK  sslh:echosrv                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx/sslh-ev.exe                      27/03/2024 15:39  64        avx (919)     2.42   2.1.1     n/a OK  sslh:sslh-ev                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx/sslh-fork.exe                    27/03/2024 15:39  64        avx (841)     2.42   2.1.1     n/a OK  sslh:sslh-fork                          arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/avx/sslh-select.exe                  27/03/2024 15:39  64        avx (936)     2.42   2.1.1     n/a OK  sslh:sslh-select                        arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+
+/x64/sse2/cygconfig-11.dll                27/03/2024 15:45  64                      2.42   1.7.3     n/a OK  libconfig:cygconfig-11                  arch:x64-avx gcc:11.4.0 commit:525922a tag:v1.7.3 date:2021-06-19
+/x64/sse2/echosrv.exe                     27/03/2024 15:45  64                      2.42   2.1.1     n/a OK  sslh:echosrv                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/sse2/sslh-ev.exe                     27/03/2024 15:45  64                      2.42   2.1.1     n/a OK  sslh:sslh-ev                            arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/sse2/sslh-fork.exe                   27/03/2024 15:45  64                      2.42   2.1.1     n/a OK  sslh:sslh-fork                          arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+/x64/sse2/sslh-select.exe                 27/03/2024 15:45  64                      2.42   2.1.1     n/a OK  sslh:sslh-select                        arch:x64-avx gcc:11.4.0 libconfig:v1.7.3 commit:5f1c1b1 tag:v2.1.1 branch:master date:2024-03-24
+
+/x64/cygev-4.dll                          01/01/1970 01:00  64                      2.36   n/a       n/a KO  n/a                                     n/a
+/x64/cygpcre2-8-0.dll                     18/02/2024 10:01  64                      2.42   n/a       n/a KO  n/a                                     n/a
+/x64/cygwin1.dll                          27/02/2024 13:02  64                      2.42   3.5.1     n/a KO  Cygwin                                  Cygwin POSIX Emulation DLL
+/x64/nssm-2.25.0.exe                      09/03/2023 11:08  64  ltcg  avx (248)     14.36  2.2.25.0  n/a OK  nssm:nssm-2.25.0                        arch:x64-avx vcver:14.36[vs17] commit:a1c3260 branch:master date:2021-12-16
