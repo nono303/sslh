@@ -1,32 +1,29 @@
 # SSLH - Windows Cygwin binaries #
 - https://github.com/yrutschle/sslh
+- https://github.com/nono303/win-build-scripts
 ----
-### version [2.1.1](https://github.com/yrutschle/sslh/releases/tag/v2.1.1) - 2024-03-27
+### Version [2.1.1 - 1799a81](https://github.com/yrutschle/sslh/commit/1799a8107927704ba9e5d920996297b4cf671256) - 2024-03-31
 
-**Released 2024-03-24** *(x64  gcc `11.4.0`)*
+**Released 2024-04-08** 
 
------
-### Instruction sets
+- x64
+- gcc `11.4.0`
 
-> Choose an instruction set according to your cpu _([see here how to find it](https://github.com/nono303/PHP-memcache-dll?tab=readme-ov-file#how-to-get-the-good-version))_
+:warning: **SSE2 / AVX / AVX2** 
 
-- **SSE2**
-- **AVX**
-- **AVX2**
+- Check your cpu supported instructions with [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
-### Build Scripts
-
-- [@nono303/win-build-scripts](https://github.com/nono303/win-build-scripts)
+  >  ![](https://github.com/nono303/PHP-memcache-dll/raw/master/avx.png)
 
 ### Dependencies
 
-> if you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll`
-> Just ensure that you have packages `libpcre2_x` and `libev4` installed and /bin Cygwin path is correctly set in Windows PATH environment variable
+> If you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll`
+> Just ensure that you have packages `libpcre2_x` and `libev4` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
 
 - **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.7.3)** `1.7.3` _(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.5.1` _(cygwin)_
+- **cygwin** `3.5.3` _(cygwin)_
    - *cygwin1.dll*
 - **pcre2** `10.43`_(cygwin)_
   - *cygpcre2-8-0.dll*
