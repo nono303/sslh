@@ -2,12 +2,12 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.1.1 - 1799a81](https://github.com/yrutschle/sslh/commit/1799a8107927704ba9e5d920996297b4cf671256) - 2024-03-31
+### Version [2.1.2 - e831b73](https://github.com/yrutschle/sslh/releases/tag/v2.1.2) - 2024-05-17
 
-**Released 2024-04-08** 
+**Released 2024-05-18** 
 
 - x64
-- gcc `11.4.0`
+- gcc `13.2.1`
 
 :warning: **SSE2 / AVX / AVX2** 
 
