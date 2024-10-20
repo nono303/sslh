@@ -4,10 +4,10 @@
 ----
 ### Version [2.1.2 - e831b73](https://github.com/yrutschle/sslh/releases/tag/v2.1.2) - 2024-05-17
 
-**Released 2024-05-18** 
+**Released 2024-10-20** 
 
 - x64
-- gcc `13.2.1`
+- gcc `13.3.1`
 
 :warning: **SSE2 / AVX / AVX2** 
 
@@ -23,9 +23,9 @@
 - **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.7.3)** `1.7.3` _(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.5.3` _(cygwin)_
+- **cygwin** `3.5.4` _(cygwin)_
    - *cygwin1.dll*
-- **pcre2** `10.43`_(cygwin)_
+- **pcre2** `10.44`_(cygwin)_
   - *cygpcre2-8-0.dll*
 
 - **libev** `4.33` _(cygwin)_ :point_up: _only required for **sslh-ev**_
