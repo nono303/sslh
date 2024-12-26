@@ -2,9 +2,9 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.1.3 - 9243a6e](https://github.com/yrutschle/sslh/commit/9243a6e36964ba7443f62be05abd19303109e95d) - 2024-09-08
+### Version [2.1.4.26](https://github.com/yrutschle/sslh/commit/2e9f23a) - 2024-09-08
 
-**Released 2024-11-12** 
+**2024-12-23** 
 
 - x64
 - gcc `15.0.0`
@@ -20,10 +20,10 @@
 > If you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll`
 > Just ensure that you have packages `libpcre2_x` and `libev4` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
 
-- **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.7.3)** `1.7.3` _(build)_
+- **[libconfig](https://github.com/hyperrealm/libconfig/commit/690342b)** `1.7.4 dev`_(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.5.4` _(cygwin)_
+- **cygwin** `3.5.5` _(cygwin)_
    - *cygwin1.dll*
 - **pcre2** `10.44`_(cygwin)_
   - *cygpcre2-8-0.dll*
