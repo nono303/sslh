@@ -2,7 +2,7 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.1.4.28](https://github.com/yrutschle/sslh/commit/710807fd3b0a8a025858524404dfe4f431672f7e) - 2025-02-01
+### Version [2.1.4.35](https://github.com/yrutschle/sslh/commit/7a6673a8773baf16745d80763f4a6d90045e6548) - 2025-02-25
 
 - x64
 - gcc `15.0.0`
@@ -15,16 +15,19 @@
 
 ### Dependencies
 
-> If you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll`
-> Just ensure that you have packages `libpcre2_x` and `libev4` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
+> If you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll` and `cygwrap-0.dll`
+> Just ensure that you have packages `libpcre2_8_0` ,`libev4` and `libwrap0` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
 
 - **[libconfig](https://github.com/hyperrealm/libconfig/commit/690342b)** `1.7.4 dev`_(build)_
   - *cygconfig-11.dll*
 
 - **cygwin** `3.5.7` _(cygwin)_
    - *cygwin1.dll*
-- **pcre2** `10.44`_(cygwin)_
+- **pcre2** `10.45`_(cygwin)_
   - *cygpcre2-8-0.dll*
+
+- **libwrap** `7.6.26`_(cygwin)_
+  - *cygwrap-0.dll*
 
 - **libev** `4.33` _(cygwin)_ :point_up: _only required for **sslh-ev**_
   - *cygev-4.dll*
