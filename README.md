@@ -2,10 +2,10 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.1.4.35](https://github.com/yrutschle/sslh/commit/7a6673a8773baf16745d80763f4a6d90045e6548) - 2025-02-25
+### Version [2.1.4.37](https://github.com/yrutschle/sslh/commit/951b708f612b9315508542b21029b07eb4e08705) - 2025-03-09
 
 - x64
-- gcc `15.0.0`
+- gcc `15.0.0 20250105`
 
 :warning: **SSE2 / AVX / AVX2** 
 
@@ -21,7 +21,7 @@
 - **[libconfig](https://github.com/hyperrealm/libconfig/commit/690342b)** `1.7.4 dev`_(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.5.7` _(cygwin)_
+- **cygwin** `3.6.0` _(cygwin)_
    - *cygwin1.dll*
 - **pcre2** `10.45`_(cygwin)_
   - *cygpcre2-8-0.dll*
