@@ -2,7 +2,7 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.1.4.37](https://github.com/yrutschle/sslh/commit/951b708f612b9315508542b21029b07eb4e08705) - 2025-03-09
+### Version [2.2.1](https://github.com/yrutschle/sslh/releases/tag/v2.2.1) - 2025-04-06
 
 - x64
 - gcc `15.0.0 20250105`
