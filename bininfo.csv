@@ -1,21 +1,21 @@
 filename;date;x;set;cl;pver;product;description
-/x64/avx/cygconfig-11.dll;05/05/2025 15:03;64;;2.44;1.8;libconfig:cygconfig-11;arch:x64-avx gcc:15.1.1 commit:4bc9b56 tag:v1.8 date:2025-04-28
-/x64/avx/echosrv.exe;05/05/2025 15:04;64;avx (1475);2.44;2.2.3.0;sslh:echosrv;arch:x64-avx gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx/sslh-ev.exe;05/05/2025 15:04;64;avx (1849);2.44;2.2.3.0;sslh:sslh-ev;arch:x64-avx gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx/sslh-fork.exe;05/05/2025 15:04;64;avx (1761);2.44;2.2.3.0;sslh:sslh-fork;arch:x64-avx gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx/sslh-select.exe;05/05/2025 15:04;64;avx (1924);2.44;2.2.3.0;sslh:sslh-select;arch:x64-avx gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx2/cygconfig-11.dll;05/05/2025 15:05;64;;2.44;1.8;libconfig:cygconfig-11;arch:x64-avx2 gcc:15.1.1 commit:4bc9b56 tag:v1.8 date:2025-04-28
-/x64/avx2/echosrv.exe;05/05/2025 15:05;64;avx (1172);2.44;2.2.3.0;sslh:echosrv;arch:x64-avx2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx2/sslh-ev.exe;05/05/2025 15:05;64;avx (1641);2.44;2.2.3.0;sslh:sslh-ev;arch:x64-avx2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx2/sslh-fork.exe;05/05/2025 15:05;64;avx (1531);2.44;2.2.3.0;sslh:sslh-fork;arch:x64-avx2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/avx2/sslh-select.exe;05/05/2025 15:05;64;avx (1751);2.44;2.2.3.0;sslh:sslh-select;arch:x64-avx2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
+/x64/avx/cygconfig-11.dll;05/05/2025 15:03;64;;2.44;1.8.1;libconfig:cygconfig-11;arch:x64-avx gcc:16.0.0 commit:47ec93c tag:v1.8.1 date:2025-05-27
+/x64/avx/echosrv.exe;01/07/2025 05:54;64;avx (1500);2.44;2.2.4.0;sslh:echosrv;arch:x64-avx gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx/sslh-ev.exe;01/07/2025 05:54;64;avx (1878);2.44;2.2.4.0;sslh:sslh-ev;arch:x64-avx gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx/sslh-fork.exe;01/07/2025 05:54;64;avx (1790);2.44;2.2.4.0;sslh:sslh-fork;arch:x64-avx gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx/sslh-select.exe;01/07/2025 05:54;64;avx (1951);2.44;2.2.4.0;sslh:sslh-select;arch:x64-avx gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx2/cygconfig-11.dll;18/05/2025 07:25;64;;2.44;1.8.1;libconfig:cygconfig-11;arch:x64-avx2 gcc:16.0.0 commit:47ec93c tag:v1.8.1 date:2025-05-27
+/x64/avx2/echosrv.exe;01/07/2025 05:55;64;avx (1066);2.44;2.2.4.0;sslh:echosrv;arch:x64-avx2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx2/sslh-ev.exe;01/07/2025 05:55;64;avx (1531);2.44;2.2.4.0;sslh:sslh-ev;arch:x64-avx2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx2/sslh-fork.exe;01/07/2025 05:55;64;avx (1426);2.44;2.2.4.0;sslh:sslh-fork;arch:x64-avx2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/avx2/sslh-select.exe;01/07/2025 05:55;64;avx (1639);2.44;2.2.4.0;sslh:sslh-select;arch:x64-avx2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
 /x64/cygev-4.dll;01/01/1970 02:00;64;;2.36;n/a;n/a;n/a
 /x64/cygpcre2-8-0.dll;08/02/2025 11:37;64;;2.44;n/a;n/a;n/a
-/x64/cygwin1.dll;09/04/2025 13:39;64;;2.44;3.6.1;Cygwin;Cygwin POSIX Emulation DLL
+/x64/cygwin1.dll;27/06/2025 19:59;64;;2.44;3.7.0;Cygwin;Cygwin POSIX Emulation DLL
 /x64/cygwrap-0.dll;01/01/1970 02:00;64;;2.29;n/a;n/a;n/a
 /x64/nssm-2.25.0.exe;12/11/2024 10:32;64;avx (183);14.40;2.2.25.0;nssm:nssm-2.25.0;arch:x64 vcver:14.40[vs17] commit:a1c3260 branch:master date:2021-12-16
-/x64/sse2/cygconfig-11.dll;05/05/2025 15:02;64;;2.44;1.8;libconfig:cygconfig-11;arch:x64-sse2 gcc:15.1.1 commit:4bc9b56 tag:v1.8 date:2025-04-28
-/x64/sse2/echosrv.exe;05/05/2025 15:02;64;;2.44;2.2.3.0;sslh:echosrv;arch:x64-sse2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/sse2/sslh-ev.exe;05/05/2025 15:02;64;;2.44;2.2.3.0;sslh:sslh-ev;arch:x64-sse2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/sse2/sslh-fork.exe;05/05/2025 15:02;64;;2.44;2.2.3.0;sslh:sslh-fork;arch:x64-sse2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
-/x64/sse2/sslh-select.exe;05/05/2025 15:02;64;;2.44;2.2.3.0;sslh:sslh-select;arch:x64-sse2 gcc:15.1.1 libconfig:v1.8 commit:b5d4d46 tag:v2.2.3 date:2025-05-04
+/x64/sse2/cygconfig-11.dll;05/05/2025 15:02;64;;2.44;1.8.1;libconfig:cygconfig-11;arch:x64-sse2 gcc:16.0.0 commit:47ec93c tag:v1.8.1 date:2025-05-27
+/x64/sse2/echosrv.exe;01/07/2025 05:52;64;;2.44;2.2.4.0;sslh:echosrv;arch:x64-sse2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/sse2/sslh-ev.exe;01/07/2025 05:52;64;;2.44;2.2.4.0;sslh:sslh-ev;arch:x64-sse2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/sse2/sslh-fork.exe;01/07/2025 05:52;64;;2.44;2.2.4.0;sslh:sslh-fork;arch:x64-sse2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28
+/x64/sse2/sslh-select.exe;01/07/2025 05:52;64;;2.44;2.2.4.0;sslh:sslh-select;arch:x64-sse2 gcc:16.0.0 libconfig:v1.8.1 commit:b12220e tag:v2.2.4 date:2025-05-28

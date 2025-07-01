@@ -2,10 +2,10 @@
 - https://github.com/yrutschle/sslh
 - https://github.com/nono303/win-build-scripts
 ----
-### Version [2.2.3](https://github.com/yrutschle/sslh/releases/tag/v2.2.3) - 2025-05-04
+### Version [2.2.4](https://github.com/yrutschle/sslh/releases/tag/v2.2.4) - 2025-05-28
 
 - x64
-- gcc `15.1.1 20250426`
+- gcc `16.0.0 20250615`
 
 :warning: **SSE2 / AVX / AVX2** 
 
@@ -18,10 +18,10 @@
 > If you have Cygwin already installed, you don't need `cygwin1.dll`, `cygpcre2-8-0.dll`, `cygev-4.dll` and `cygwrap-0.dll`
 > Just ensure that you have packages `libpcre2_8_0` ,`libev4` and `libwrap0` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
 
-- **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.8)** `1.8.0`_(build)_
+- **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.8.1)** `1.8.1`_(build)_
   - *cygconfig-11.dll*
 
-- **cygwin** `3.6.1` _(cygwin)_
+- **cygwin** `3.7.0` _(cygwin)_
    - *cygwin1.dll*
 - **pcre2** `10.45`_(cygwin)_
   - *cygpcre2-8-0.dll*
