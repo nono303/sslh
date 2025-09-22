@@ -19,7 +19,7 @@
 > Just ensure that you have packages `libpcre2_8_0` ,`libev4` and `libwrap0` installed and `/bin` Cygwin path is correctly set in Windows `PATH` environment variable
 
 - **[libconfig](https://github.com/hyperrealm/libconfig/releases/tag/v1.8.1)** `1.8.1`_(build)_
-  - *cygconfig-15.dll*
+  - *cygconfig-11.dll*
 
 - **cygwin** `3.7.0` _(cygwin)_
    - *cygwin1.dll*
